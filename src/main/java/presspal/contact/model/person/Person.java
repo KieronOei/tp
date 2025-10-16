@@ -24,6 +24,7 @@ public class Person {
     // Data fields
     private final Organisation organisation;
     private final Set<Category> categories = new HashSet<>();
+    // TODO: add InterviewList interviews & Role role
 
     /**
      * Every field must be present and not null.
