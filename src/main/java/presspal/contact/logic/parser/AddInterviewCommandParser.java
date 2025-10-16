@@ -21,7 +21,6 @@ import presspal.contact.model.interview.Location;
  * Parses input arguments and creates a new AddInterviewCommand object.
  */
 public class AddInterviewCommandParser implements Parser<AddInterviewCommand> {
-
     /**
      * Parses the given {@code String} of arguments in the context of the AddInterviewCommand
      * and returns an AddInterviewCommand object for execution.
