@@ -282,10 +282,10 @@ details summary code {
 
 ## About
 
-PressPal is designed to streamline contact and interview management for breaking news reporters. Traditional address books and note-taking tools are not optimized for the high-speed, high-pressure environment of news reporting, where reporters must manage hundreds of contacts across multiple sources (phones, emails, notebooks).
+PressPal is designed to streamline contact and interview management for breaking news reporters. Traditional address books and note-taking tools are not optimised for the high-speed, high-pressure environment of news reporting, where reporters must manage hundreds of contacts across multiple sources (phones, emails, notebooks).
 
 The **goal of PressPal** is to:
-- Provide reporters with a single command-driven system for organizing and retrieving contacts quickly.
+- Provide reporters with a single command-driven system for organising and retrieving contacts quickly.
 - Enable fast entry and retrieval of context (interview history, organisation, role, notes) while working on multiple stories simultaneously.
 - Support the entire lifecycle of a contact — from initial outreach, to active follow-up, to archiving once a story concludes.
   Ultimately, PressPal aims to reduce cognitive load for reporters, allowing them to focus on storytelling while ensuring no lead, contact, or follow-up is lost.
@@ -928,9 +928,9 @@ Examples:
    – **Why:** The app remembers the last screen position, even if that screen isn’t there anymore.  
    – **Fix:** Delete `preferences.json`, then reopen the app.
 
-2. **Help window won’t reappear after minimizing**  
-   – **Why:** The original Help window is still minimized.  
-   – **Fix:** Restore the minimized window manually.
+2. **Help window won’t reappear after minimising**  
+   – **Why:** The original Help window is still minimised.  
+   – **Fix:** Restore the minimised window manually.
    </tab>
 
   <tab header="🧩 Troubleshooting">
