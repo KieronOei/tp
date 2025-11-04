@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default.md
 title: Logging guide
+pageNav: 3
 ---
 
 * We are using `java.util.logging` package for logging.

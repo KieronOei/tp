@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: default.md
 title: Testing guide
+pageNav: 3
 ---
 
-* Table of Contents
-{:toc}
-
---------------------------------------------------------------------------------------------------------------------
 
 ## Running tests
 

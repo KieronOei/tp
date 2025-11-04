@@ -1,13 +1,8 @@
 ---
-layout: page
+layout: default.md
 title: Setting up and getting started
+pageNav: 3
 ---
-
-* Table of Contents
-{:toc}
-
-
---------------------------------------------------------------------------------------------------------------------
 
 ## Setting up the project in your computer
 
